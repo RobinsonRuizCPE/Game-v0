@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: char
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Light
+    m_Weight: 0
+  - m_Path: Camera
+    m_Weight: 0
+  - m_Path: FinalBaseMesh
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/root
+    m_Weight: 1
+  - m_Path: Armature/root/base
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/cou
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/cou/tete
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/cou/tete/tete_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_majeur_1.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_majeur_1.l/main_majeur_2.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_majeur_1.l/main_majeur_2.l/main_majeur_3.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_majeur_1.l/main_majeur_2.l/main_majeur_3.l/main_majeur_3.l_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_anulaire_1.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_anulaire_1.l/main_anulaire_2.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_anulaire_1.l/main_anulaire_2.l/main_anulaire_3.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_anulaire_1.l/main_anulaire_2.l/main_anulaire_3.l/main_anulaire_3.l_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_auriculaire_1.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_auriculaire_1.l/main_auriculaire_2.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_auriculaire_1.l/main_auriculaire_2.l/main_auriculaire_3.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_auriculaire_1.l/main_auriculaire_2.l/main_auriculaire_3.l/main_auriculaire_3.l_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_index_1.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_index_1.l/main_index_2.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_index_1.l/main_index_2.l/main_index_3.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_index_1.l/main_index_2.l/main_index_3.l/main_index_3.l_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_pouce_1.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_pouce_1.l/main_pouce_2.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.l/bras.l/avant_bras.l/main.l/main_pouce_1.l/main_pouce_2.l/main_pouce_2.l_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_majeur_1.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_majeur_1.r/main_majeur_2.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_majeur_1.r/main_majeur_2.r/main_majeur_3.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_majeur_1.r/main_majeur_2.r/main_majeur_3.r/main_majeur_3.r_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_anulaire_1.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_anulaire_1.r/main_anulaire_2.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_anulaire_1.r/main_anulaire_2.r/main_anulaire_3.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_anulaire_1.r/main_anulaire_2.r/main_anulaire_3.r/main_anulaire_3.r_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_auriculaire_1.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_auriculaire_1.r/main_auriculaire_2.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_auriculaire_1.r/main_auriculaire_2.r/main_auriculaire_3.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_auriculaire_1.r/main_auriculaire_2.r/main_auriculaire_3.r/main_auriculaire_3.r_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_index_1.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_index_1.r/main_index_2.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_index_1.r/main_index_2.r/main_index_3.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_index_1.r/main_index_2.r/main_index_3.r/main_index_3.r_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_pouce_1.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_pouce_1.r/main_pouce_2.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/ventre/buste/epaule.r/bras.r/avant_bras.r/main.r/main_pouce_1.r/main_pouce_2.r/main_pouce_2.r_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.l/mollet.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.l/mollet.l/pied.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.l/mollet.l/pied.l/orteil.l
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.l/mollet.l/pied.l/orteil.l/orteil.l_end
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.r/mollet.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.r/mollet.r/pied.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.r/mollet.r/pied.r/orteil.r
+    m_Weight: 1
+  - m_Path: Armature/root/base/cul/cuisse.r/mollet.r/pied.r/orteil.r/orteil.r_end
+    m_Weight: 1
+  - m_Path: Armature/root/ik-leg.l
+    m_Weight: 1
+  - m_Path: Armature/root/ik-leg.l/knee.l
+    m_Weight: 1
+  - m_Path: Armature/root/ik-leg.l/knee.l/knee.l_end
+    m_Weight: 1
+  - m_Path: Armature/root/ik-leg.r
+    m_Weight: 1
+  - m_Path: Armature/root/ik-leg.r/knee.r
+    m_Weight: 1
+  - m_Path: Armature/root/ik-leg.r/knee.r/knee.r_end
+    m_Weight: 1
